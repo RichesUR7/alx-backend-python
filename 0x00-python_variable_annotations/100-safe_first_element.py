@@ -1,5 +1,6 @@
-
-dule contains a function that returns the first elements of a
+#!/usr/bin/env python3
+"""
+Module contains a function that returns the first elements of a
 sequence if itt exist.
 """
 
