@@ -1,4 +1,6 @@
-s module contains an asynchronous function that executes `task_wait_random`
+#!/usr/bin/env python3
+"""
+This module contains an asynchronous function that executes `task_wait_random`
 multiple times concurrently.
 
 The function, `task_wait_n`, concurrently executes `task_wait_random` for a
